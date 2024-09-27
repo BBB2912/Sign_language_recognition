@@ -98,6 +98,15 @@ The following sign language gestures are recognized:
 ### Prediction Visualization
 
 The model outputs probabilities for each of the gestures, which are visualized as colored bars on the video feed. The most likely gesture is displayed as text on the screen.
+## Results:
+![Screenshot 2024-09-27 150230](https://github.com/user-attachments/assets/a653389e-9792-4595-a1e1-bd3ab453ac68)
+![Screenshot 2024-09-27 15024](https://github.com/user-attachments/assets/6bf0c6d7-0945-4aa1-a533-9b734b7a6dfe)
+
+
+Uploading recording.mp4…
+
+
+
 
 Usage
 -----
